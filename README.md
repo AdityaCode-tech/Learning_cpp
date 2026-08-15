@@ -12,7 +12,8 @@ This repository contains my C++ programs and notes while learning C++ and Data S
 - Patterns
 - Functions
 - Pointers
-- Arrays (In Progress)
+- Arrays
+- Vector
 
 ## Goal
 To build strong C++ fundamentals and prepare for DSA, competitive programming, and placements.
