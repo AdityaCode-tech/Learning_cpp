@@ -13,6 +13,7 @@ This repository contains my C++ programs and notes while learning C++ and Data S
 - Functions
 - Pointers
 - Arrays
+- 2D Arrays
 - Vector
 
 ## Goal
